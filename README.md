@@ -1,12 +1,15 @@
-***requires npm axios***
-***npm install cocktail-api-search***
+
 
 ***https://www.npmjs.com/package/cocktail-api-search***
 
 
 **#TheCockTailDB**
 
-API refer to https://www.thecocktaildb.com/api.php
+***Requires***
+* **npm axios**
+* **npm  cocktail-api-search**
+
+**API refer to https://www.thecocktaildb.com/api.php**
 
 *<!-- Contact -->*
 

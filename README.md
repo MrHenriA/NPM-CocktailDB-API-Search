@@ -1,4 +1,4 @@
-*** requires npm axios ***
+***requires npm axios***
 ***npm install cocktail-api-search***
 
 ***https://www.npmjs.com/package/cocktail-api-search***

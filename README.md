@@ -1,3 +1,6 @@
+npm install cocktail-search-api
+
+
 #TheCockTailDB
 
 API refer to https://www.thecocktaildb.com/api.php

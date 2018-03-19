@@ -1,4 +1,4 @@
-**npm install cocktail-search-api**
+***npm install cocktail-search-api***
 
 
 **#TheCockTailDB**

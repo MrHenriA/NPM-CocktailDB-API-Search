@@ -9,7 +9,7 @@ API refer to https://www.thecocktaildb.com/api.php
 
 *<!-- Contact -->*
 
-Email: zag (at) kodi.tv
+Email: zag@kodi.tv
 
 **#API Keys**
 You can use the test API key "1" during development of your app or for educational use However you must apply for a key a production API key via email if releasing publicly on an appstore. The test key may be revoked at any time if abused.

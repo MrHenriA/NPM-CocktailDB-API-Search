@@ -1,0 +1,16 @@
+{
+  "name": "cocktail-api-search",
+  "version": "1.0.3",
+  "description": "API that searches TheCocktailDB API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Cocktail",
+    "beverages",
+    "alcohol"
+  ],
+  "author": "Henri",
+  "license": "ISC"
+}

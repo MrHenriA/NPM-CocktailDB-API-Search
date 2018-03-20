@@ -7,7 +7,7 @@
 
 ***Requires***
 * **npm axios**
-* **npm  cocktail-api-search**
+
 
 **API refer to https://www.thecocktaildb.com/api.php**
 

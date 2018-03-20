@@ -1,6 +1,6 @@
 {
   "name": "cocktail-api-search",
-  "version": "1.0.3",
+  "version": "1.0.7",
   "description": "API that searches TheCocktailDB API",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,8 @@
     "alcohol"
   ],
   "author": "Henri",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "latest"
+  }
 }

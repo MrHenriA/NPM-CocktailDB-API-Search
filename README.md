@@ -32,7 +32,7 @@ Search by ingredient | <https://www.thecocktaildb.com/api/json/v1/1/filter.php?i
 Filter by alcoholic | <https://www.thecocktaildb.com/api/json/v1/1/filter.php?a=Alcoholic>
  -| <https://www.thecocktaildb.com/api/json/v1/1/filter.php?a=Non_Alcoholic>
 Filter by Category | <https://www.thecocktaildb.com/api/json/v1/1/filter.php?c=Ordinary_Drink>
-<https://www.thecocktaildb.com/api/json/v1/1/filter.php?c=Cocktail>
+-| <https://www.thecocktaildb.com/api/json/v1/1/filter.php?c=Cocktail>
 Filter by Glass | <https://www.thecocktaildb.com/api/json/v1/1/filter.php?g=Cocktail_glass>
  -| <https://www.thecocktaildb.com/api/json/v1/1/filter.php?g=Champagne_flute>
 List the categories, glasses, ingredients or alcoholic filters | <https://www.thecocktaildb.com/api/json/v1/1/list.php?c=list>

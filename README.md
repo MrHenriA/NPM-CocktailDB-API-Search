@@ -25,6 +25,7 @@ Email: zag@kodi.tv
 
 **#API Methods**
 
+NPM package gets installed, the param is set to "term" that is equal to the value of s. Which will search by name, this can be changed to how ever you like.
 
 Description | Call
 ----------- | -------------

@@ -27,6 +27,10 @@ Email: zag@kodi.tv
 
 NPM package gets installed, the param is set to "term" that is equal to the value of s. Which will search by name, this can be changed to how ever you like.
 
+https://thisdudehenry.github.io/React-Cocktail/
+
+Search bar has a value of term. Term sets the param ?s="term" which results in searching by cocktail name.
+
 Description | Call
 ----------- | -------------
 Search cocktail by name | <https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita>

@@ -1,4 +1,9 @@
 
+**I created this npm package to communicate to the Open Source Cocktail DB API to help others and automate this task. This was submitted to the Open Source Cocktail API DB Forum and is currently being used by 100's of people.**
+
+
+
+
 
 ***https://www.npmjs.com/package/cocktail-api-search***
 
